@@ -56,15 +56,4 @@ app.post("/",function(req,res){
 
 })
 
-// {
-//     "email_address": "$user_email",
-//     "status": "subscribed",
-//     "merge_fields": {
-//       "FNAME": "$user_fname",
-//       "LNAME": "$user_lname"
-//     }
-//   }
-// apikey=9821bba56a8227f87d04f71dabdc34d6-us14
-// 1a50ec5647
-//77b2c4aaaf7c7b8e0f77554d7a156f4b-us14
-//1a50ec5647
+
